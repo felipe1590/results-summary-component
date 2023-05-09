@@ -6,12 +6,12 @@ Esta é uma solução para o [desafio do componente de resumo de resultados no F
 
 - [Visão geral](#visão geral)
    - [O desafio](#o-desafio)
-   - [Captura de tela](#captura de tela)
+   - [Captura de tela](#captura-de-tela)
    - [Links](#links)
 - [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
+   - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
    - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
 
